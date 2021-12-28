@@ -1,0 +1,1 @@
+The first chapter gives an introduction to how various libraries can be used to load and play around with the images. It also shows various methods that can be applied using those libraries. There were also some advanced methods that were told without much details about them, but I guess that’s okay, otherwise, it would have been too detailed.
